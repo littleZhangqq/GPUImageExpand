@@ -1,0 +1,22 @@
+{
+  "name": "GPUExpand",
+  "version": "0.1.0",
+  "summary": "A short description of GPUExpand.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/892750407@qq.com/GPUExpand",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "892750407@qq.com": "[892750407@qq.com]"
+  },
+  "source": {
+    "git": "https://github.com/892750407@qq.com/GPUExpand.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GPUExpand/Classes/**/*"
+}

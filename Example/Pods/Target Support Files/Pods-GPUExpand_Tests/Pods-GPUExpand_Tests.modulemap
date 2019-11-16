@@ -1,0 +1,6 @@
+framework module Pods_GPUExpand_Tests {
+  umbrella header "Pods-GPUExpand_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
